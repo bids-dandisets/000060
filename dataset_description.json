@@ -1,0 +1,20 @@
+{
+    "Name": "Dataset for Finkelstein, Fontolan et al. \"Attractor dynamics gate cortical information flow during decision-making\"",
+    "BIDSVersion": "1.10",
+    "HEDVersion": "8.3.0",
+    "Description": "Extracellular electrophysiology recordings in anterior lateral motor cortex and in vibrissal sensory cortex in mice trained to detect optogenetic stimulation of the vibrissal sensory cortex.\n\nThe data analysis code for this dataset is available here: \n https://github.com/arsenyf/FinkelsteinFontolan_2021NN",
+    "DatasetType": "raw",
+    "Authors": [
+        "Finkelstein, Arseny",
+        "Svoboda, Karel"
+    ],
+    "License": null,
+    "GeneratedBy": [
+        {
+            "Name": "nwb2bids",
+            "Version": "0.9.1.dev27+gf0fb7253c",
+            "Description": "Tool to reorganize NWB files into a BIDS directory layout.",
+            "CodeURL": "https://github.com/con/nwb2bids"
+        }
+    ]
+}
